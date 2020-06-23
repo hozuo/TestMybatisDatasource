@@ -20,7 +20,7 @@ MyBatis配置多数据源可以用分包的方法，将不同的.xml文件放在
 
 mapper文件夹中分包对应两个测试数据源，mapper.xml文件放在了资源目录下。mapper.xml也可以放在对应的包路径下，需要指定资源路径。
 
-<img src="C:\Users\ghzfr\AppData\Roaming\Typora\typora-user-images\image-20200623115324109.png" alt="image-20200623115324109" style="zoom:80%;" />
+<img src="https://img-blog.csdnimg.cn/202006231427306.png" style="zoom:80%;" />
 
 #### pom.xml
 
@@ -629,19 +629,23 @@ public class TestMybatisDatasourceApplication {
 
 #### 数据库
 
-![image-20200623141345479](C:\Users\ghzfr\AppData\Roaming\Typora\typora-user-images\image-20200623141345479.png)
+![image-20200623141345479](https://img-blog.csdnimg.cn/20200623142917663.png)
 
-<img src="C:\Users\ghzfr\AppData\Roaming\Typora\typora-user-images\image-20200623141308343.png" alt="image-20200623141308343" style="zoom: 67%;" />
+<img src="https://img-blog.csdnimg.cn/20200623142934945.png" style="zoom: 67%;" />
 
 测试结果
 
-![image-20200623141437048](C:\Users\ghzfr\AppData\Roaming\Typora\typora-user-images\image-20200623141437048.png)
+![image-20200623141437048](https://img-blog.csdnimg.cn/20200623142953406.png)
 
-![image-20200623141453224](C:\Users\ghzfr\AppData\Roaming\Typora\typora-user-images\image-20200623141453224.png)
+![image-20200623141453224](https://img-blog.csdnimg.cn/20200623143003849.png)
 
 源码地址
 
 https://github.com/hozuo/TestMybatisDatasource
+
+CSDN博客
+
+https://blog.csdn.net/a15682562905/article/details/106922780
 
 参考资料
 
