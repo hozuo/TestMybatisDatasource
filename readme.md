@@ -645,7 +645,7 @@ https://github.com/hozuo/TestMybatisDatasource
 
 CSDN博客
 
-https://blog.csdn.net/a15682562905/article/details/106922780
+https://blog.csdn.net/hozuo/article/details/106924232
 
 参考资料
 
